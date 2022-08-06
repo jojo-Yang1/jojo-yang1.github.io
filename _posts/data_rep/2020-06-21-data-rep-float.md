@@ -6,9 +6,6 @@ author: "jojo"
 header-style: text
 tags:
   - 笔记
-  - 基础
-  - C
-  - C++
 ---
 
 钢琴（意大利语：pianoforte）是西洋古典音乐中的一种键盘乐器，有“乐器之王”的美称。由88个琴键（52个白键，36个黑键）和金属弦音板组成。意大利人巴托罗密欧·克里斯多佛利（Bartolomeo Christofori），（1655-1731）在1709年发明了钢琴。
